@@ -12,9 +12,8 @@ about:
       href: https://www.linkedin.com/in/alexis-clubb-bb645b348/
     - icon: github
       text: Github
-      href: https://github.com/alexisclubb13
+      href: https://github.com/alexisclubb
 format: html
 ---
 
 Hello! My name is Alexis Clubb, and I am a doctoral student in the Social and Personality Psychology program at the University of California, Riverside.
-

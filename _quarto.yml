@@ -18,7 +18,7 @@ website:
         file: Other.qmd
     right:
       - icon: github
-        href: https://github.com/alexisclubb13
+        href: https://github.com/alexisclubb
       - icon: google scholar
         href: https://scholar.google.com/citations?user=KCOGrO8AAAAJ&hl=en
 format:
