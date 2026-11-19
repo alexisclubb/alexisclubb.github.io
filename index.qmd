@@ -1,0 +1,20 @@
+---
+title: "Home"
+image: cropped_headshot.png
+about:
+  template: jolla
+  links:
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=KCOGrO8AAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alexis-clubb-bb645b348/
+    - icon: github
+      text: Github
+      href: https://github.com/alexisclubb13
+format: html
+---
+
+Hello! My name is Alexis Clubb, and I am a doctoral student in the Social and Personality Psychology program at the University of California, Riverside.
+
