@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: "docs"
 
 website:
   description: "My Website built through quarto"

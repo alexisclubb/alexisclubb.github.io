@@ -3,7 +3,7 @@ title: "Research"
 format: html
 ---
 
-My research focuses on mind wandering, the day-to-day implications of attention allocation, and how increasing curiosity, especially in social situations, can improve well-being. 
+My research focuses on mind wandering, the day-to-day implications of attention allocation, and how increasing curiosity, especially in social situations, can improve well-being.
 
 **Preprints:**
 
